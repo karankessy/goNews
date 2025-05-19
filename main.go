@@ -10,8 +10,8 @@ import (
 	"os"
 	"strconv"
 	"time"
-
-	"github.com/freshman-tech/news-demo-starter-files/news"
+	
+	"github.com/karankessy/goNews/news"
 	"github.com/joho/godotenv"
 )
 
